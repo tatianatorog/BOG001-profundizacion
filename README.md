@@ -1,5 +1,3 @@
-# Repositorio para registrar los ejercicios y actividades de profundización de objetivos de aprendizajes. 
-
 # Profundización de Objetivos de Aprendizaje
 
 El objetivo del *sprint* de profundización es realizar una autoevaluación consciente de los objetivos de aprendizaje de los proyectos que has desarrollado hasta el momento y desarrollar ejercicios y actividades que te ayuden a consolidarlos.
