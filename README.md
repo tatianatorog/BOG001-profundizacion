@@ -10,6 +10,15 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
 
 ----
 
+#### UX
+    
+- [ ] Diseño de interfaces de usuario:
+    - Actividades a desarrollar:
+        * Asistir a charla con Daniel Pino (04/09)
+        * Realizar diseño vista filtros de app leratto
+    - Actividad final: Compartir el diseño de la vista
+    
+    
 #### JavaScript
     
 - [ ] Promesas:
@@ -17,13 +26,21 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
         * Asistir a charla con Lupo sobre promesas (02/09)
         * Apoyar a un equipo 
     - Actividad final: Generar un ejercicio en el [repo.](https://github.com/dapino/daily-js) 
+    
+- [ ] Uso de bucles (for of| for..in):
+    - Actividades a desarrollar:
+        * Leer la documentación oficial sobre el uso (for of| for in) (03/09).
+        * Realizar ejercios.
+    - Actividad final:Ligthing talk sobre el uso de for (for of| for in).
+    
+    
 
 #### Test
     
 - [ ] Mocks con librerías y manuales:
     - Actividades a desarrollar:
         * Realizar test SN
-    - Actividad final: Lightning Talk sobre mocks con librerías. 
+    - Actividad final: Generar un ejercicio en el [repo.](https://github.com/dapino/daily-js) 
     
 ----
 
