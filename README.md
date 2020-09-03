@@ -42,8 +42,14 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
         * Realizar test SN
     - Actividad final: Generar un ejercicio en el [repo.](https://github.com/dapino/daily-js) 
     
+    
+ #### CSS
+    
+- [ ] CSS GRID
+    
+    
 ----
-
+    
 
 ## Actividades
 Durante la revisión de tu aprendizaje es importante que consolides ese conocimiento en algún lugar y en lo posible compartas el conocimiento que has adquirido, es importante que organices y hagas seguimiento de tus tareas, por esta razón te sugerimos organices las actividades, puede ser en una tabla como esta:
